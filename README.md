@@ -42,4 +42,4 @@ On the files there are already the results from the training process and the tes
 
 
 Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
-[image2]
+![Trained Agent][image2]
