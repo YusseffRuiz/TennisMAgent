@@ -1,4 +1,5 @@
 [image2]: https://github.com/YusseffRuiz/TennisMAgent/blob/main/Pictures/playing1.png "Playing1"
+[image3]: https://github.com/YusseffRuiz/TennisMAgent/blob/main/Pictures/LearningRate.png "LearningRate"
 
 
 # Project 3: Collaboration and Competition
@@ -43,3 +44,9 @@ On the files there are already the results from the training process and the tes
 
 Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
 ![Trained Agent][image2]
+
+
+The environment was solved in 800 episodes.
+![SolvedAgent][image3]
+
+
